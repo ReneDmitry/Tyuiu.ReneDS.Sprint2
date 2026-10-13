@@ -29,4 +29,9 @@
     <Project Path="Tyuiu.ReneDS.Sprint2.Task5.V12.Test/Tyuiu.ReneDS.Sprint2.Task5.V12.Test.csproj" Id="32b9d54f-4a08-4ce6-a6a1-a7ea27d20c2f" />
     <Project Path="Tyuiu.ReneDS.Sprint2.Task5.V12/Tyuiu.ReneDS.Sprint2.Task5.V12.csproj" Id="0ce5ed80-1270-4ab9-ac92-ebdcd8dbebfd" />
   </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.ReneDS.Sprint2.Task6.V6.Lib/Tyuiu.ReneDS.Sprint2.Task6.V6.Lib.csproj" Id="6a35e70d-d7b1-4632-ad47-3ebe3a6cb07c" />
+    <Project Path="Tyuiu.ReneDS.Sprint2.Task6.V6.Test/Tyuiu.ReneDS.Sprint2.Task6.V6.Test.csproj" Id="fa0b2413-cdb8-4686-9681-ebbd2bb8c10a" />
+    <Project Path="Tyuiu.ReneDS.Sprint2.Task6.V6/Tyuiu.ReneDS.Sprint2.Task6.V6.csproj" Id="345607e8-6371-4478-a243-42bcf242423a" />
+  </Folder>
 </Solution>
